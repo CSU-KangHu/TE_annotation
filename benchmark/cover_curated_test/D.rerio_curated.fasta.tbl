@@ -1,0 +1,59 @@
+==================================================
+file name: D.rerio_curated.fasta    
+sequences:          2577
+total length:    6287933 bp  (6279861 bp excl N/X-runs)
+GC level:         39.68 %
+bases masked:    5662809 bp ( 90.06 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         2937      3436001 bp   54.64 %
+   SINEs:               24         4197 bp    0.07 %
+   Penelope             25         8086 bp    0.13 %
+   LINEs:             1637      1098044 bp   17.46 %
+    CRE/SLACS            1          267 bp    0.00 %
+     L2/CR1/Rex        495       223617 bp    3.56 %
+     R1/LOA/Jockey      83        92907 bp    1.48 %
+     R2/R4/NeSL         17        11940 bp    0.19 %
+     RTE/Bov-B          67        32500 bp    0.52 %
+     L1/CIN4           659       464076 bp    7.38 %
+   LTR elements:      1276      2333760 bp   37.11 %
+     BEL/Pao           153       440896 bp    7.01 %
+     Ty1/Copia           6        17232 bp    0.27 %
+     Gypsy/DIRS1       725      1442254 bp   22.94 %
+       Retroviral      110       219300 bp    3.49 %
+
+DNA transposons       4806      1907011 bp   30.33 %
+   hobo-Activator     1289       366998 bp    5.84 %
+   Tc1-IS630-Pogo      373       133319 bp    2.12 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             52         8542 bp    0.14 %
+   Tourist/Harbinger   330        78327 bp    1.25 %
+   Other (Mirage,       46        12335 bp    0.20 %
+    P-element, Transib)
+
+Rolling-circles        362       160981 bp    2.56 %
+
+Unclassified:          350       128713 bp    2.05 %
+
+Total interspersed repeats:     5471725 bp   87.02 %
+
+
+Small RNA:              53        17709 bp    0.28 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:        101        12394 bp    0.20 %
+Low complexity:          0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../family_drerio.fasta"
+FamDB: 

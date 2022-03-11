@@ -1,0 +1,59 @@
+==================================================
+file name: dmel_curated.fasta       
+sequences:           421
+total length:     751510 bp  (750902 bp excl N/X-runs)
+GC level:         42.44 %
+bases masked:     647273 bp ( 86.13 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements          338       579651 bp   77.13 %
+   SINEs:                1           73 bp    0.01 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              115       179306 bp   23.86 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         10         9546 bp    1.27 %
+     R1/LOA/Jockey      32        36691 bp    4.88 %
+     R2/R4/NeSL          2         3845 bp    0.51 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       222       400272 bp   53.26 %
+     BEL/Pao            27        52385 bp    6.97 %
+     Ty1/Copia          14        22210 bp    2.96 %
+     Gypsy/DIRS1       181       325677 bp   43.34 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons         91        36792 bp    4.90 %
+   hobo-Activator        2          764 bp    0.10 %
+   Tc1-IS630-Pogo       20        15032 bp    2.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             16         1178 bp    0.16 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        9         6026 bp    0.80 %
+    P-element, Transib)
+
+Rolling-circles         12         3546 bp    0.47 %
+
+Unclassified:           49         8654 bp    1.15 %
+
+Total interspersed repeats:      625097 bp   83.18 %
+
+
+Small RNA:              26        13667 bp    1.82 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:         29         4963 bp    0.66 %
+Low complexity:          0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../family_dmel.fasta"
+FamDB: 
