@@ -6,6 +6,6 @@ HiTE discovers over 800 novel TIR elements with well-defined structures that are
 
 You can find the multiple sequence alignment files for each of the novel TIR elements in the **msa.tar.gz** file, and the structural definitions for each transposon in the **data.xlsx** file, both of which are located in the **novel_tir_rice** directory.
 
-With these information, we can easily determine the structural features of novel TIR elements and validate their reliability.
+With these information, we can easily determine the structural features of novel TIR elements and validate their reliability. The following figure shows the novel TIR transposons identified by HiTE, visualized using MEGA.
 
 ![1683162467926](https://user-images.githubusercontent.com/22925278/236084352-664099d8-b825-4319-9db8-188ec9febe48.png)
